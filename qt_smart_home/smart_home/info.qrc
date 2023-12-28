@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>city_info.txt</file>
+        <file>account_info.txt</file>
+    </qresource>
+</RCC>

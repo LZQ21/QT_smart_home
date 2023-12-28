@@ -1,0 +1,2 @@
+http://music.163.com/api/search/get/web?csrf_token=hlpretag=&hlposttag=&s=qf&type=1&offset=0&total=true&limit=2
+http://music.163.com/api/search/get/web?csrf_token=hlpretag=&hlposttag=&s=起风了&type=1&offset=0&total=true&limit=2

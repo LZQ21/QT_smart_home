@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>sound/3.png</file>
+        <file>sound/fail.wav</file>
+        <file>sound/s99.gif</file>
+        <file>sound/start.wav</file>
+        <file>sound/start1.wav</file>
+        <file>sound/start2.wav</file>
+        <file>sound/time.wav</file>
+        <file>sound/win.wav</file>
+        <file>sound/爱如火.mp3</file>
+        <file>sound/蓝莲花.mp3</file>
+        <file>sound/小苹果.mp4</file>
+        <file>sound/Beyond - 不再犹豫.mp3</file>
+        <file>sound/Beyond - 大地.mp3</file>
+        <file>sound/Beyond - 光辉岁月.mp3</file>
+        <file>sound/Beyond - 抗战二十年.mp3</file>
+        <file>sound/BEYOND - 冷雨夜.mp3</file>
+        <file>sound/Beyond - 无悔这一生.mp3</file>
+        <file>sound/Beyond - 喜欢你.mp3</file>
+        <file>sound/Beyond - 真的爱你.mp3</file>
+    </qresource>
+</RCC>
